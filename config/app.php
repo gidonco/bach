@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'tagline' => 'Personal audio streaming service that works.',
+    'tagline' => 'Audio streaming service',
 
     'env' => env('APP_ENV', 'production'),
-    'name' => 'Koel',
+    'name' => 'Bachime',
 
     /*
     |--------------------------------------------------------------------------

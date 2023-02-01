@@ -26,7 +26,7 @@
 <body>
 <div id="app"></div>
 
-<noscript>It may sound funny, but Koel requires JavaScript to sing. Please enable it.</noscript>
+<noscript>It may sound funny, but Bach requires JavaScript to play. Please enable it.</noscript>
 
 <script>
     window.BASE_URL = @json(asset(''));
