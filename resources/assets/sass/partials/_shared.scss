@@ -14,7 +14,7 @@
 }
 
 ::placeholder {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, .5);
 }
 
 body,
@@ -43,6 +43,8 @@ textarea,
   padding: .5rem .6rem;
   border-radius: .3rem;
   margin: 0;
+  background: var(--color-bg-input);
+  color: var(--color-input);
 
   &:required,
   &:invalid {
